@@ -1,7 +1,0 @@
-PyAudio
-SpeechRecognition
-pyttsx3
-groq
-pyautogui
-requests
-python-dotenv
